@@ -22,10 +22,22 @@
 
 ---
 
-### ⚡ About Me & My Tech
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,docker,git,linux,vscode,blender,ps,ai,pytorch&perline=14" />
+
+**Languages & AI** <br/>
+<img src="https://skillicons.dev/icons?i=cpp,python,pytorch,bash" />
+
+**Frontend & Web** <br/>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+**Tools & Platforms** <br/>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,docker" />
+
+**Creative Design** <br/>
+<img src="https://skillicons.dev/icons?i=blender,ps,ai" />
+
 </div>
 
 <br/>
@@ -35,12 +47,14 @@
 | **AI Lecture Notes** | **C++ & Python** | **Data Science** | **Photography** |
 | | | **App Development** | **Digital Art** |
 | | | **Web Design** | **Reading** |
+| | | **CMD Proficiency** | |
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Pisamael/Pisamael/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Pisamael/Pisamael/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
-  <img src="
+  <img src="https://komarev.com/ghpvc/?username=Pisamael&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
