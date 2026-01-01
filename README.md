@@ -1,4 +1,3 @@
-
 # Hi there, I'm Shawn David Manjila! 👋
 
 ### 🎓 About Me
@@ -36,7 +35,7 @@ I am passionate about building smart solutions using AI and Data Science.
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -51,13 +50,14 @@ I am passionate about building smart solutions using AI and Data Science.
 ### 📈 My GitHub Stats
 
 <div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pisamael&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnDavidManjila&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
@@ -67,5 +67,3 @@ I am passionate about building smart solutions using AI and Data Science.
 <p align="left">
 <a href="https://linkedin.com/in/shawn-manjila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn manjila" height="30" width="40" /></a>
 </p>
-
-```
