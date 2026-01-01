@@ -45,16 +45,13 @@
 | 🧐 Working On | 🌱 Learning | 💡 Interests | 🎨 Hobbies |
 | :--- | :--- | :--- | :--- |
 | **AI Lecture Notes** | **C++ & Python** | **Data Science** | **Photography** |
-| | | **App Development** | **Digital Art** |
+| | | **App Development** | **Art** |
 | | | **Web Design** | **Reading** |
 | | | **CMD Proficiency** | |
 
 ---
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pisamael/Pisamael/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pisamael&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
