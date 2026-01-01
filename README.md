@@ -40,10 +40,10 @@
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 **Tools & Platforms** <br/>
-<img src="https://skillicons.dev/icons?i=kali,vscode,antigravity,docker" />
+<img src="https://skillicons.dev/icons?i=kali,vscode,docker" />
 
 **Creative Design** <br/>
-<img src="https://skillicons.dev/icons?i=blender,ps,ai,lrc" />
+<img src="https://skillicons.dev/icons?i=blender,ps,ai,lightroom" />
 
 </div>
 
