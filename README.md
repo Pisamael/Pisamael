@@ -16,8 +16,11 @@
   <a href="https://github.com/Pisamael">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/Trinityx25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -27,16 +30,20 @@
 <div align="center">
 
 **Languages & AI** <br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,pytorch,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,pytorch" />
+<br/>
+<img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black" height="30"/>
+
+<br/>
 
 **Frontend & Web** <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 **Tools & Platforms** <br/>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=kali,vscode,antigravity,docker" />
 
 **Creative Design** <br/>
-<img src="https://skillicons.dev/icons?i=blender,ps,ai" />
+<img src="https://skillicons.dev/icons?i=blender,ps,ai,lrc" />
 
 </div>
 
