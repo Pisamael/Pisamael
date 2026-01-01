@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=kali,vscode,docker" />
 
 **Creative Design** <br/>
-<img src="https://skillicons.dev/icons?i=blender,ps,ai,lightroom" />
+<img src="https://skillicons.dev/icons?i=blender,ps,ai" />
 
 </div>
 
