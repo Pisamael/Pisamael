@@ -1,85 +1,61 @@
 <div align="center">
 
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shawn%20David%20Manjila&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20|%20Developer%20|%20Artist&descAlignY=51&descAlign=62)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Shawn+David+Manjila!+%F0%9F%91%8B;I+am+a+CSE+Data+Science+Student;I+Build+AI+%26+App+Solutions;I+am+an+Artist+%26+Photographer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=500&lines=CSE+Data+Science+Student;Building+AI+%26+App+Solutions;Photography+%26+Digital+Art;Welcome+to+my+Profile!" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Pisamael&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <a href="https://www.instagram.com/shawndavid_snaps/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shawn-manjila">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Pisamael">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🎓 About Me
-I am a **Computer Science & Data Science** student at **AVIT** (Aarupadai Veedu Institute of Technology). 
-I am passionate about building smart solutions using AI and Data Science.
-
-- 🔭 I’m currently working on an **AI Lecture Notes Program**
-- 🌱 I’m currently learning **C++ and Python**
-- 💡 I’m interested in **App Development, Data Science, AI, and ML**
-- 🎨 When I'm not coding, I am an **Artist and Photographer**
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> 
-  </a> 
-</p>
-
----
-
-### 📈 My GitHub Stats
+### ⚡ About Me & My Tech
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pisamael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisamael&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,docker,git,linux,vscode,blender,ps,ai,pytorch&perline=14" />
+</div>
+
+<br/>
+
+| 🧐 Currently Working On | 🌱 Currently Learning | 🎨 Hobbies |
+| :--- | :--- | :--- |
+| **AI Lecture Notes Program** | **C++ & Advanced Python** | **Photography** |
+| App Development Projects | Machine Learning Algos | **Digital Art** |
+| Data Science Research | Docker & Cloud | Reading & Gaming |
+
+---
+
+### 🏆 GitHub Trophies (3D Animation)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pisamael&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/shawndavid_snaps/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shawndavid_snaps" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/shawn-manjila" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shawn manjila" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Pisamael" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Pisamael" />
-  </a>
-</p>
+### 📊 Stats & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pisamael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisamael&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Pisamael/Pisamael/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pisamael&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
