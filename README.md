@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=custom&colorGradient=ffffff,ffc0cb&height=250&section=header&text=Shawn%20David%20Manjila&fontSize=70&fontColor=333333&animation=fadeIn&fontAlignY=38&desc=CSE%20Data%20Science%20%7C%20Hardware%20Hacker%20%7C%20Digital%20Artist&descAlignY=55&descAlign=50&descColor=666666)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=600&lines=Undergrad+@+Aarupadai+Veedu+Institute+of+Technology;Reverse-Engineering+Hardware+Protocols;Building+Offline+%26+Local+AI+Solutions;Photography,+Fine+Ink+Hatching+%26+Cycling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=600&lines=UG+@+AVIT;Reverse-Engineering+Hardware+Protocols;Building+Offline+%26+Local+AI+Solutions;Photography,+Fine+Ink+Hatching+%26+Cycling" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -15,9 +15,6 @@
   </a>
   <a href="https://www.instagram.com/shawndavid_snaps/">
     <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://music.apple.com/">
-    <img src="https://img.shields.io/badge/Audiophile-FA243C?style=for-the-badge&logo=applemusic&logoColor=white"/>
   </a>
 </p>
 
@@ -55,17 +52,6 @@ I focus on building optimized, privacy-first offline utilities and tearing apart
 <img src="https://skillicons.dev/icons?i=ps,pr,ai,blender" />
 
 </div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pisamael&show_icons=true&theme=default&title_color=FF69B4&icon_color=FF69B4&text_color=333333&bg_color=FFFFFF&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisamael&layout=compact&theme=default&title_color=FF69B4&text_color=333333&bg_color=FFFFFF&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br/>
 
 <div align="center">
   <i>When I'm not coding, I'm probably logging my 600th movie on Letterboxd, cycling, or working on fine ink hatching.</i>
