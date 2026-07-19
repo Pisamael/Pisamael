@@ -1,24 +1,38 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Shawn%20David%20Manjila&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Student%20|%20Developer%20|%20Artist&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=custom&colorGradient=ffffff,ffc0cb&height=250&section=header&text=Shawn%20David%20Manjila&fontSize=70&fontColor=333333&animation=fadeIn&fontAlignY=38&desc=CSE%20Data%20Science%20%7C%20Hardware%20Hacker%20%7C%20Digital%20Artist&descAlignY=55&descAlign=50&descColor=666666)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=500&lines=CSE+Data+Science+Student;Building+AI+%26+App+Solutions;Photography+%26+Digital+Art;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=600&lines=Undergrad+@+Aarupadai+Veedu+Institute+of+Technology;Reverse-Engineering+Hardware+Protocols;Building+Offline+%26+Local+AI+Solutions;Photography,+Fine+Ink+Hatching+%26+Cycling" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://www.instagram.com/shawndavid_snaps/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/shawn-manjila">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Trinityx25/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://www.instagram.com/shawndavid_snaps/">
+    <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://music.apple.com/">
+    <img src="https://img.shields.io/badge/Audiophile-FA243C?style=for-the-badge&logo=applemusic&logoColor=white"/>
+  </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
+
+---
+
+### 💻 Featured Engineering
+
+I focus on building optimized, privacy-first offline utilities and tearing apart hardware to see how it ticks. 
+
+* **[Kreo-RGB-Hijack](https://github.com/Pisamael/kreo-rgb-hijack):** A custom Python driver built from scratch by reverse-engineering undocumented USB HID protocols. Bypasses manufacturer software to map 32-bit hardware memory arrays, featuring a 20FPS ambient screen visualizer and an FFT-driven audio equalizer.
+* **Lazy-Lecture-Engine:** A localized, privacy-focused academic utility built in Python that automatically transcribes lecture audio and compiles slide text into offline notes.
+* **AI Gallery:** An offline mobile photo indexer utilizing local computer vision scripts to classify objects and recognize faces entirely on-device without cloud processing.
+* **YearMatrix:** A custom Android live wallpaper and widget application engineered in Kotlin (Android Studio) to visualize and track annual calendar milestones.
 
 ---
 
@@ -26,36 +40,35 @@
 
 <div align="center">
 
-**Languages & AI** <br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,pytorch" />
-<br/>
-<img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black" height="30"/>
+**Languages & Core Logic** <br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,kotlin" />
 
-<br/>
+**AI, Data & Hardware** <br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+<img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black" height="48"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="48"/>
 
-**Frontend & Web** <br/>
-<img src="https://skillicons.dev/icons?i=html,css" />
+**DevOps & Architecture** <br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 
-**Tools & Platforms** <br/>
-<img src="https://skillicons.dev/icons?i=kali,vscode,docker" />
+**Creative Suite** <br/>
+<img src="https://skillicons.dev/icons?i=ps,pr,ai,blender" />
 
-**Creative Design** <br/>
-<img src="https://skillicons.dev/icons?i=blender,ps,ai" />
+</div>
 
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pisamael&show_icons=true&theme=default&title_color=FF69B4&icon_color=FF69B4&text_color=333333&bg_color=FFFFFF&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisamael&layout=compact&theme=default&title_color=FF69B4&text_color=333333&bg_color=FFFFFF&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
-| 🧐 Working On | 🌱 Learning | 💡 Interests | 🎨 Hobbies |
-| :--- | :--- | :--- | :--- |
-| **AI Lecture Notes** | **C++ & Python** | **Data Science** | **Photography** |
-| | | **App Development** | **Art** |
-| | | **Web Design** | **Reading** |
-| | | **CMD Proficiency** | |
-
----
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pisamael&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <i>When I'm not coding, I'm probably logging my 600th movie on Letterboxd, cycling, or working on fine ink hatching.</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Pisamael&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
 </div>
