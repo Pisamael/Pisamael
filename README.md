@@ -41,8 +41,15 @@ I focus on building optimized, privacy-first offline utilities, simulating robot
 **Languages & Core Logic** <br/>
 <img src="https://skillicons.dev/icons?i=py,cpp,c,kotlin" />
 
+**Robotics & Simulation** <br/>
+<img src="https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/NVIDIA_Omniverse-FFFFFF?style=for-the-badge&logo=nvidia&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/USD_(Scene_Graph)-000000?style=for-the-badge&logo=3d&logoColor=white" height="32"/>
+
 **AI, Data & Hardware** <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+<img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="48"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black" height="48"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="48"/>
 
