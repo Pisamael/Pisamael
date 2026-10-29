@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- 🌊 ANIMATED WAVING HEADER -->
+<!-- -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffe4e8,100:ffb6c1&height=230&section=header&text=Shawn%20David%20Manjila&fontSize=56&fontColor=1e1e24&animation=fadeIn&fontAlignY=36&desc=CSE%20Data%20Science%20%20%E2%97%87%20%20Hardware%20Hacker%20%20%E2%97%87%20%20Digital%20Artist&descAlignY=56&descAlign=50&descColor=555560&fontFamily=Trebuchet%20MS" alt="Header" />
 
-<!-- ⌨️ DYNAMIC TERMINAL TYPING SVG -->
+<!<---->
 <a href="https://github.com/Pisamael">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E_UG+%40+AVIT+%7C+CSE+Data+Science;%3E_Building+Offline+%26+Local+AI+Architectures;%3E_Robotics+%26+Physics+Simulation+(NVIDIA+Isaac+Sim);%3E_Reverse-Engineering+Undocumented+USB+HID+Protocols;%3E_Monochrome+Photography%2C+Fine+Ink+Hatching+%26+Cinema" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 🔗 MINIMALIST PILL SOCIALS & TELEMETRY -->
+<!---->
 <p align="center">
   <a href="https://linkedin.com/in/shawn-manjila">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=1e1e24&color=ffffff" alt="LinkedIn" />
@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pisamael&label=VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- ✨ ANIMATED PULSE DIVIDER -->
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -105,14 +105,14 @@
 
 <div align="center">
 
-<!-- 📊 UNIFIED PINK/WHITE TELEMETRY CARDS -->
+<->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pisamael&theme=transparent&hide_border=true&stroke=ffb6c1&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffb6c1&sideLabels=ffb6c1&dates=888888" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pisamael&theme=transparent&hide_border=true&stroke=ffb6c1&ring=ff69b4&fire=ff69b4&currStreakNum=1e1e24&sideNums=1e1e24&currStreakLabel=ff69b4&sideLabels=1e1e24&dates=666666" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pisamael&theme=transparent&hide_border=true&stroke=ffb6c1&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=ffb6c1&sideLabels=ffb6c1&dates=888888" alt="Streak Stats" />
 </picture>
 
-<!-- 🐍 ANIMATED CONTRIBUTION SNAKE (Auto-renders from GitHub Actions or Demo Fallback) -->
+<! -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -121,10 +121,10 @@
 
 <br/><br/>
 
-<!-- 🎧 OFF-SCREEN FOOTER -->
+<!--->
 <code>[ OFF-THREAD ]</code> &nbsp; <i>High-fidelity IEM acoustics • Logging 600+ films • Fine ballpoint ink hatching • Road cycling</i>
 
-<!-- 🌊 ANIMATED WAVING FOOTER -->
+<!--->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ffe4e8,100:ffffff&height=110&section=footer" alt="Footer" />
 
 </div>
